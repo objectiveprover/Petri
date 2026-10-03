@@ -1,6 +1,6 @@
 #!/usr/bin/env tclsh
 
-# It looks like execution is asyncronous, because the program
+# It looks like execution is asynchronous, because the program
 # prints (3) while (2) finishes.
 # Also `vwait forever` at the end is needed to keep the process running
 # until `exit` is called, otherwise the program will exit
