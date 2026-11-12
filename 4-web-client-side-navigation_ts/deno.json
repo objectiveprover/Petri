@@ -1,7 +1,0 @@
-{
-  "tasks": {
-    "start": "deno run --allow-net --watch -R main.ts",
-    "test": "deno test --allow-net",
-    "lint": "deno lint"
-  }
-}

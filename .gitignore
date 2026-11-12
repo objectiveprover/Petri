@@ -1,1 +1,7 @@
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# REPL state (can appear in any experiment)
 .nrepl-port
