@@ -21,12 +21,17 @@ The purpose of this repository is to store and track small pieces of code and al
 
 ## Index
 
-| Experiment | Languages | Summary |
-|------------|-----------|---------|
-| [000000—Multiple-language `Hello, world!`](000000-ONGOING-hello-world) | Ada, C, Clojure, D, Forth, Go, Haskell, Julia, OCaml, R, Scheme, Swift | Minimal program and run command per language |
-| [000001—Project Euler](000001-ONGOING-project-euler) | | Project Euler problems |
-| [261111—SCPI over raw TCP sockets](261111-DONE-scpi-raw-socket) | Python, Clojure | SCPI to a Siglent scope over TCP 5025; read replies until LF |
-| [261111—Simplest HTML templating](261111-DONE-simple-html-templating) | TypeScript (Deno) | Layout + nestable components via regex and placeholder replacement; self-nesting needs a real parser |
-| [261111—Random-wait execution in Tcl](261111-DONE-tcl-random-wait) | Tcl | `after` only queues work; nothing runs until `vwait` starts the event loop |
-| [261111—Client-side navigation without frameworks](261111-PLANNED-client-side-navigation) | TypeScript | Swap page content with `fetch` and the History API |
-| [261111—SCPI Binary Waveform](261111-PLANNED-scpi-binary-waveform) | Python, Clojure | Download and plot a full waveform; parse the IEEE 488.2 binary block |
+- [000000—Multiple-language `Hello, world!`](000000-ONGOING-hello-world) · *Ada, C, Clojure, D, Forth, Go, Haskell, Julia, OCaml, R, Scheme, Swift*\
+  Minimal program and run command per language.
+- [000001—Project Euler](000001-ONGOING-project-euler)\
+  Project Euler problems.
+- [261111—SCPI over raw TCP sockets](261111-DONE-scpi-raw-socket) · *Python, Clojure*\
+  SCPI to a Siglent scope over TCP 5025; read replies until LF.
+- [261111—Simplest HTML templating](261111-DONE-simple-html-templating) · *TypeScript (Deno)*\
+  Layout + nestable components via regex and placeholder replacement; self-nesting needs a real parser.
+- [261111—Random-wait execution in Tcl](261111-DONE-tcl-random-wait) · *Tcl*\
+  `after` only queues work; nothing runs until `vwait` starts the event loop.
+- [261111—Client-side navigation without frameworks](261111-PLANNED-client-side-navigation) · *TypeScript*\
+  Swap page content with `fetch` and the History API.
+- [261111—SCPI Binary Waveform](261111-PLANNED-scpi-binary-waveform) · *Python, Clojure*\
+  Download and plot a full waveform; parse the IEEE 488.2 binary block.
