@@ -72,3 +72,11 @@ The purpose of this repository is to store and track small pieces of code and al
 *Python, Clojure*
 
 `PLANNED` Download and plot a full waveform; parse the IEEE 488.2 binary block.
+
+---
+
+### [261112](261112-ONGOING-chez-tui-menu) — Chez Scheme TUI menu
+
+*Scheme (Chez)*
+
+`ONGOING` Pick a string with the arrow keys using only `stty` and ANSI escapes.
